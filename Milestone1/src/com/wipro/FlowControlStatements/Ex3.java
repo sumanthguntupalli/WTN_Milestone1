@@ -1,4 +1,4 @@
-package FlowControlStatements;
+package com.wipro.FlowControlStatements;
 
 public class Ex3 {
 public static void main(String[] args) {

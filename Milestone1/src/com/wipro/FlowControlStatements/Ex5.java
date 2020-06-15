@@ -1,4 +1,4 @@
-package FlowControlStatements;
+package com.wipro.FlowControlStatements;
 import java.util.*;
 public class Ex5 {
 public static void main(String[] args) {
