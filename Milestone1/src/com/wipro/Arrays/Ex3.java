@@ -1,0 +1,24 @@
+package com.wipro.Arrays;
+import java.util.*;
+public class Ex3 {
+public static void main(String[] args) {
+	Scanner sc =new Scanner(System.in);
+	System.out.println("Enter total numbers elements");
+	int n=sc.nextInt();
+	int []a=new int[n];
+	System.out.println("enter search element");
+	int key=sc.nextInt();
+	int f=0;
+	for(int i=0;i<n;i++)
+	{
+		System.out.println("enter "+(i+1)+"elements");
+		a[i]=sc.nextInt();
+		if(a[i]==key)
+			f=i;
+	}
+	if(f!=0)
+		System.out.println(f+1);
+	else
+		System.out.println("-1");
+}
+}
