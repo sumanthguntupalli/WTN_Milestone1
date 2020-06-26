@@ -1,4 +1,4 @@
-package com.wipo.ClassesAndObjects;
+package com.wipro.ClassesAndObjects;
 
 public class Calculator {
 	static int powerInt(int num1,int num2)

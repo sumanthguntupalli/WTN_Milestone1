@@ -1,4 +1,4 @@
-package com.wipo.ClassesAndObjects;
+package com.wipro.ClassesAndObjects;
 import java.util.*;
 public class Box {
 	int length,width,depth;
