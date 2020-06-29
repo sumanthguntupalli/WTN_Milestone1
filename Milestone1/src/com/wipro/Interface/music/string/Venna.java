@@ -1,6 +1,6 @@
 package com.wipro.Interface.music.string;
 
-import com.wipro.Interfaces.music.playable;
+import com.wipro.Interface.music.playable;
 
 public class Venna implements playable {
 	public void play()
