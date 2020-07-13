@@ -10,7 +10,7 @@ public class test2 {
 	@Test
 	public void testsortValues() {
 		DailyTasks d1= new DailyTasks();
-		int in[]= {3,2,1};
+		int in[]= {3,1,2};
 		int out[]= {1,2,3};
 		assertArrayEquals( out, d1.sortValues(in) );
 	}
